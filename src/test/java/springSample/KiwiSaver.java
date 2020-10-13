@@ -13,7 +13,7 @@ public class KiwiSaver extends BaseTest {
     }
 
     @Test
-    public void test1samplePeushan1() {
+    public void test1samplePamodh() {
         driver.navigate().to(baseUrl);
     }
 }
