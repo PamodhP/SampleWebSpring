@@ -11,7 +11,6 @@ public class KiwiSaver extends BaseTest {
     public void test1sample() {
         driver.navigate().to(baseUrl);
     }
-
     @Test
     public void test1samplePamodh() {
         driver.navigate().to(baseUrl);
